@@ -29,3 +29,10 @@ c. Funciones que apuntan a otras funciones
 d. Ninguna de las anteriores
 
 Respuesta: d. Ninguna de las anteriores
+
+# Parte 2
+
+Los ejercicios de código de la parte 2 están localizados en la rama "main" dentro de carpetas que indican el número del ejercicio correspondiente
+
+
+
